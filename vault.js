@@ -15,6 +15,5 @@ module.exports = function() {
 return {
   setValue: setValue,
   getValue: getValue,
-}
-};
+}};
 
